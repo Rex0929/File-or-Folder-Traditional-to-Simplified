@@ -1,4 +1,4 @@
-#繁体转简体.py
+#File or Folder Traditional to Simplified.py
 from langconv import *
 import os,stat
 root_path= 'E:\test'
