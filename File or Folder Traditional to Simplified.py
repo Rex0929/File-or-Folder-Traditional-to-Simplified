@@ -2,7 +2,7 @@
 from langconv import *
 import os,stat
 root_path= 'E:\test'
-# root_path=r'K:\新建文件夹\test'
+# root_path=r'E:\test'
  
 def chmod(path):
     os.chmod(path, stat.S_IWRITE)
